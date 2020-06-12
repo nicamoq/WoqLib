@@ -1,11 +1,7 @@
 WoqLib
  | Weeb launcher with db counters and a near-customizable interface.
 
-This cost 5 hours of my time, and it (for some reason) works pretty well!
-
-Matt Rentaro 2019.
-kutsuro.simdif.com
-woqhentai.jimdofree.com
+https://kutsuro.simdif.com/all-projects.html
 
 SETUP:
 
