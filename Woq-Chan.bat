@@ -8,7 +8,7 @@ IF EXIST E:\woq-chan\srolib.bat set lib=E:
 IF EXIST F:\woq-chan\srolib.bat set lib=F:
 IF EXIST G:\woq-chan\srolib.bat set lib=G:
 IF EXIST H:\woq-chan\srolib.bat set lib=H:
-IF EXIST I:\woq-chanb\srolib.bat set lib=I:
+IF EXIST I:\woq-chan\srolib.bat set lib=I:
 goto lib-start
 
 :lib-start
