@@ -19,12 +19,17 @@ storage device.
 of your weeb crests into the following variables:
 
 anisc = The folder that will open via Animu > Completed.
+
 anisc2 = The folder that will open via Animu > Ongoing.
+
 mangsc = The folder that will open via Animu > Manga.
 
 hensc = The folder that will open via ARA ARA ~ > Hentai.
+
 doujsc1 = The folder that will open via ARA ARA ~ > Nhentai.
+
 doujsc2 = The folder that will open via ARA ARA ~ > Tsumino.
+
 
 ex: set anisc=F:\Anime\Completed
 
